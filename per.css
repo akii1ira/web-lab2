@@ -1,0 +1,44 @@
+body{
+    background-color: #024554;
+}
+h1,h2,li{
+    color: #fff;
+    margin-left: 15px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 60px;
+}
+header{
+    width: 100%;
+    display:flex;
+    
+}
+.logo{
+    margin-left: 20px ;
+
+}
+.text{
+    font-size: 20px;
+    margin-top: 35px;
+    margin-left:650px;
+    
+}
+.about{
+margin-left: 60px;
+font-size: 20px;
+}
+img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.page:hover{
+    color:#ff0000;
+}
+.head{
+    display:flex;
+    width: 100%;
+    
+}
